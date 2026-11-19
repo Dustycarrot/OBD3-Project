@@ -5876,7 +5876,7 @@
 		)
 		(uuid "0f4ddcf5-bea2-4983-b5b7-e71bd995c4f7")
 	)
-	(label "K_Line"
+	(label "K-Line"
 		(at 177.8 81.28 0)
 		(effects
 			(font
@@ -6066,7 +6066,7 @@
 		)
 		(uuid "f57ffd63-dcbc-40e3-baff-10660a0f03c4")
 	)
-	(label "L_Line"
+	(label "L-Line"
 		(at 148.59 69.85 0)
 		(effects
 			(font
@@ -9357,7 +9357,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
